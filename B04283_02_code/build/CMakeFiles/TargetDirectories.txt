@@ -1,0 +1,4 @@
+/home/jin/Files/openCV_by_example/B04283_02_code/build/CMakeFiles/Chapter2.dir
+/home/jin/Files/openCV_by_example/B04283_02_code/build/CMakeFiles/sample1.dir
+/home/jin/Files/openCV_by_example/B04283_02_code/build/CMakeFiles/sample2.dir
+/home/jin/Files/openCV_by_example/B04283_02_code/build/CMakeFiles/sample3.dir
